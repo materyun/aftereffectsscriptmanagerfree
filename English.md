@@ -1,5 +1,4 @@
-![13704c52f7758f6b4ff12a5df4a6604](https://github.com/user-attachments/assets/61a6f13f-1855-48bd-966c-a7df42fac183)[中文说明](README.zh.md) | [English](English.md
-)
+
 # After Effects Script Manager Free
 
 📂 **Script Manager Pro v4.0**  
