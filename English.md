@@ -7,6 +7,14 @@ Official Website: [https://www.materhd.com](https://www.materhd.com)
 License: Free to use, redistribution and resale are prohibited  
 
 ---
+## 🎨 Interface Preview
+
+| Script Icon 1 | Script Icon 2 | Script Icon 3 |
+|---------------|----------------|----------------|
+| ![Icon 1](1.png) | ![Icon 2](2.png) | ![Icon 3](3.png) |
+
+> These icons will automatically appear in the script list if PNG files with the same names as your scripts are placed in the same folder.
+
 
 ## ✨ Features
 
