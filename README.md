@@ -1,3 +1,5 @@
+[🇨🇳 中文说明](README.zh.md) | [🇺🇸 English](README.md)
+
 # After Effects Script Manager Free
 
 📂 **Script Manager Pro v4.0**  
