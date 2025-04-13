@@ -82,9 +82,10 @@ aftereffectsscriptmanagerfree/
 
 ## 🙋‍♂️ 作者信息
 
-- 👤 作者：M师
+- 👤 作者：M师  
 - 💬 微信 / QQ：1193467896  
 - 📣 公众号：文景探月  
+- 📺 YouTube 频道：[materhd](https://www.youtube.com/@materhd)  
 - 🌐 官网：[https://www.materhd.com](https://www.materhd.com)
 
 ---
