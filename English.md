@@ -1,4 +1,4 @@
-[中文说明](README.zh.md) | [English](English.md
+![13704c52f7758f6b4ff12a5df4a6604](https://github.com/user-attachments/assets/61a6f13f-1855-48bd-966c-a7df42fac183)[中文说明](README.zh.md) | [English](English.md
 )
 # After Effects Script Manager Free
 
@@ -8,11 +8,13 @@ Official Website: [https://www.materhd.com](https://www.materhd.com)
 License: Free to use, redistribution and resale are prohibited  
 
 ---
-## 🎨 Interface Preview
+## 🎨 Preview
 
-| Script Icon 1 | Script Icon 2 | Script Icon 3 |
-|---------------|----------------|----------------|
-| ![Icon 1](1.png) | ![Icon 2](2.png) | ![Icon 3](3.png) |
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="1.png" style="max-width: 100px; height: auto;" />
+  <img src="2.png" style="max-width: 100px; height: auto;" />
+  <img src="3.png" style="max-width: 100px; height: auto;" />
+</div>
 
 > These icons will automatically appear in the script list if PNG files with the same names as your scripts are placed in the same folder.
 
