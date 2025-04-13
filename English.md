@@ -85,8 +85,8 @@ aftereffectsscriptmanagerfree/
 - 👤 Author: Master M  
 - 💬 WeChat / QQ: 1193467896  
 - 📣 Public Account: 文景探月  
+- 📺 YouTube: [@materhd](https://www.youtube.com/@materhd)  
 - 🌐 Website: [https://www.materhd.com](https://www.materhd.com)
-
 ---
 
 ## 💖 Support Development
