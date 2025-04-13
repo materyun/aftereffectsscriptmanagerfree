@@ -11,11 +11,12 @@
 ---
 
 ## 🎨 预览
-<p float="left">
-  <img src="1.png" width="100" />
-  <img src="2.png" width="100" />
-  <img src="3.png" width="100" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="1.png" style="max-width: 100px; height: auto;" />
+  <img src="2.png" style="max-width: 100px; height: auto;" />
+  <img src="3.png" style="max-width: 100px; height: auto;" />
+</div>
+
 
 > 如果脚本目录下存在与 `.jsx` 文件同名的 `.png` 图标，脚本列表将自动显示对应图标。
 
