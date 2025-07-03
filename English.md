@@ -18,33 +18,46 @@ License: Free to use, redistribution and resale are prohibited
 > These icons will automatically appear in the script list if PNG files with the same names as your scripts are placed in the same folder.
 
 
-## ✨ Features
+✨ Feature Overview
+Script Manager Pro is a powerful After Effects script management tool that provides the following features:
 
-`Script Manager Pro` is a powerful script management tool for Adobe After Effects, providing:
+✅ Automatic Script Reading and Categorization
+Automatically scans specified directories for .jsx / .jsxbin scripts and supports additional directory management.
 
-- ✅ **Automatic Script Scanning & Listing**  
-  Automatically detects `.jsx` and `.jsxbin` files from the main and additional directories.
+⭐ Favorites Management
+Scripts can be added to favorites for centralized management of commonly used tools.
 
-- ⭐ **Favorites Management**  
-  Mark your most-used scripts with one click for quick access.
+📂 Custom Grouping
+Freely add, rename, or delete script groups. Groups support sorting (move up, move down, top, bottom).
 
-- 📂 **Custom Grouping**  
-  Add, rename, and delete groups. Sort scripts within groups (move up/down, top/bottom).
+🔍 Keyword Search
+Supports fuzzy search of script names and group keywords.
 
-- 🔍 **Search Function**  
-  Fuzzy search by script names or group keywords.
+🖼️ Script Icon Support
+If a .png icon with the same name as the script exists in the directory, it will be automatically displayed in the list.
 
-- 🖼️ **Icon Support**  
-  If a `.png` file with the same name exists in the script directory, it's used as the script icon.
+⚙️ Configuration Persistence
+All group and favorite information is saved to a local data.json file.
 
-- ⚙️ **Persistent Config**  
-  Groups and favorites are stored in a local `data.json` config file.
+👤 About and Author Information
+The panel includes an "About" page and contact information.
 
-- 👤 **About & Author Info**  
-  Built-in panel for version info and contact details.
+💰 Sponsorship Support
+Provides various sponsorship methods, including Alipay, WeChat, PayPal, and cryptocurrencies (optional).
 
-- 💰 **Donation Options**  
-  Optional donation panel with support for Alipay, WeChat, PayPal, cryptocurrency, etc.
+🌐 Language Selection Support
+A new language selection feature has been added, allowing users to switch between different languages for the interface. Supported languages include:
+
+中文
+
+English
+
+한국어
+
+日本語
+
+Русский
+
 
 ---
 
